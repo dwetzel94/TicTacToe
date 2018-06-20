@@ -1,0 +1,7 @@
+/home/demi/Git/TicTacToe/CMakeFiles/install/strip.dir
+/home/demi/Git/TicTacToe/CMakeFiles/edit_cache.dir
+/home/demi/Git/TicTacToe/CMakeFiles/rebuild_cache.dir
+/home/demi/Git/TicTacToe/CMakeFiles/tictactoe.dir
+/home/demi/Git/TicTacToe/CMakeFiles/list_install_components.dir
+/home/demi/Git/TicTacToe/CMakeFiles/install/local.dir
+/home/demi/Git/TicTacToe/CMakeFiles/install.dir
