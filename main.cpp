@@ -121,7 +121,8 @@ char Win()
 
 int main()
 {
-    cout << "My First Tic Tac Toe" << endl;
+    RenderWindow window(VideoMode(800, 800), "My First Tic Tac Toe Game, in SFML", Style::Close | Style::Titlebar | Style::Resize);
+   
     DrawBoard();
     while(1)
     {
