@@ -1,11 +1,10 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-#include <SFML/Graphics.hpp>
-#include <SFML/Window.hpp>
+#include <string>
+
 
 using namespace std;
-using namespace sf;
 
 char matrix[3][3] = {{'1', '2', '3'},{'4', '5', '6'},{'7', '8', '9'}};
 char playerChar = 'X';
@@ -121,8 +120,6 @@ char Win()
 
 int main()
 {
-    RenderWindow window(VideoMode(800, 800), "My First Tic Tac Toe Game, in SFML", Style::Close | Style::Titlebar | Style::Resize);
-   
     DrawBoard();
     while(1)
     {
